@@ -1,4 +1,4 @@
-# quorum500
+# Quorum500
 
 Easily manage your platform across different cloud providers (and bare metal) from a centralised place.
 
@@ -12,7 +12,7 @@ Getting reliable software in front of your users is key for your company's succe
 
 Following best practices should not be a challenge. Platform should give you right tools that lead towards better architecture and design choices.
 
-# Goals:
+# Goals
 
 The project is under development and ultimately we aspire of giving you the following under [MIT licence](https://github.com/advanced-research/quorum500/blob/master/LICENSE).
 
