@@ -1,6 +1,6 @@
 # quorum500
 
-Easily manage your platform across different cloud providers (and bare metal) from a centralized place.
+Easily manage your platform across different cloud providers (and bare metal) from a centralised place.
 
 # Idea
 
@@ -8,7 +8,7 @@ Getting reliable software in front of your users is key for your company's succe
 
 **quorum500** is designed to make your life easier when it comes to:
 * Deploying applications, by enabling you to deploy in multiple regions in different cloud providers in VMs or containers.
-* Troubleshooting issues, by having the information you need in a centralized place (logs/metrics/alerts/infrastructure usage)
+* Troubleshooting issues, by having the information you need in a centralised place (logs/metrics/alerts/infrastructure usage)
 
 Following best practices should not be a challenge. Platform should give you right tools that lead towards better architecture and design choices.
 
@@ -39,7 +39,7 @@ There's a lot of things to do, and initally the focus will be on providing the f
 	- Cloud/Bare metal blob storage/[Artifactory](https://jfrog.com/artifactory/)
 - Have a secrets engine to safely store secrets on
 	- [Hashicorp Vault](https://www.vaultproject.io/)
-- Deploy software in multiple regions and AZs that scales (VMs/containers)
+- Deploy software in multiple regions and Availability Zones (VMs/containers)
 	- different cloud providers/bare metal
 - Have a dashboard that shows logs/metrics/alerts, infra usage (CPU/memory/etc)
 	- different backends: own software, [Prometheus](https://prometheus.io/), [NewRelic](https://newrelic.com/), [PagerDuty](pagerduty.com), [Sumologic](https://www.sumologic.com/)
