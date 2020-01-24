@@ -2,6 +2,8 @@
 
 Easily manage your platform across different cloud providers (and bare metal) from a centralised place.
 
+[Architecture](./ARCHITECTURE.md) | [Contributing Guidelines](./CONTRIBUTING.md) | [Getting Started](#)
+
 # Idea
 
 Getting reliable software in front of your users is key for your company's success and reputation.
@@ -24,6 +26,10 @@ The project is under development and ultimately we aspire of giving you the foll
 - Multi cloud support (Azure/Google Cloud/AWS/AliCloud)
 - Big data processing (Hadoop/Spark)
 - Extensible
+
+# Maturity
+
+Not stable, under heavy development.
 
 # Feedback
 
