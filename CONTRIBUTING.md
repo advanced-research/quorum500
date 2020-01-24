@@ -4,6 +4,12 @@ Thank you for your interest in contributing to quorum500! We hope you are excite
 
 All contributions will be made available to users under the [MIT LICENCE](https://github.com/advanced-research/quorum500/blob/master/LICENSE).
 
+## Prerequisites
+
+* Install and configure [Go](https://golang.org/).
+* Install [git](https://git-scm.com/).
+* Knowledge of Go, [Docker](https://docs.docker.com/), [12factor rules](https://12factor.net/), and Cloud providers to a good standard.
+
 To contribute to this project please do the following:
 * Create an issue describing the changes you would like to make, providing as much as information and context as possible.
 * Clone the repository via git: `git clone git@github.com:advanced-research/quorum500.git`
